@@ -1,0 +1,134 @@
+---
+title: "Assignment 3- ITEC Research"
+author: "Austin Pham"
+date: "2026-02-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+## About Dataset
+  This dataset features metrics on red meat. Specifically, it features data on its per capita availability which has been adjusted for loss due to waste. The dataset comes from the Economic Research Service or ERC of the United States.
+  (LINK: https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system)
+  Specifically, the data featured is from a cleaned dataset about red meat with only metrics pertaining to beef. 
+  But the metric that'd be focused on is the calories available daily number from 1970 to 2019.
+
+
+
+
+```{r cars}
+library("ggplot2")
+library("dplyr")
+library("tidyr")
+
+```
+
+## Question 1
+
+
+```{r}
+
+data <-read.csv("redmeat.csv")
+
+ggplot(data,aes(x=Year, y = Value)) +
+geom_bar(stat= "identity", fill = "steelblue") +
+  labs(title="Caloric Availability for Expenditure  of Beef from 1970-2019 in the United States", X = "Year", y= "Calories available daily- Number") +theme_minimal()
+
+```
+
+This graph shows the calories available for people's consumption from 1970 to 2019. It shows the trend of people eating beef peaking between 1975 to 1980 and then gradually decreasing to present day.
+
+
+## Question 2
+
+```{r}
+#plot mean
+data_summary <- data%>%
+  group_by(Year) %>%
+ summarize(mean_calories = mean(Value, na.rm = TRUE))
+#Plot mean per year
+
+ggplot(data_summary, aes(x = Year, y = mean_calories)) +
+  geom_line(color = "blue", size =1)
+  geom_point(color = "red", size = 2)
+  labs(title = "Mean Calories per Year" ,
+       x = "Year",
+       y = "Mean Calories of Red Meat Available (Beef)") +
+    theme_minimal()
+  
+
+```
+The results show that on average, people are eating less and less red meat per year due to the per capita availability of beef decreasing. 
+
+## Question 3 
+
+```{r}
+
+#Scatterplot and Regression Analysis
+
+#Scatterplot (Part 1)
+ggplot(data_summary, aes(x = Year, y = mean_calories)) +
+  geom_point(color = "blue", size = 2) +
+  geom_smooth(method = "lm", se = TRUE, color = "red") + #linear regression line
+  labs(title = "Regression Analysis: Caloric Availability by Year",
+       x = "Year",
+       y = "Mean Average Caloric Availability of Red Meat (beef)" ) +
+  theme_minimal()
+
+#Regression Analysis Model (part 2)
+model <- lm(mean_calories ~ Year, data = data_summary)
+summary(model)
+```
+
+There is a strong negative correlation of 0.8701 indicating caloric availability of red meat and beef having a downward trend year by year to the present day. 
+
+## Question 4
+
+
+```{r}
+data <- read.csv("redmeat.csv")
+
+# Convert Value column to numeric
+data$Value <- as.numeric(data$Value)
+
+# Remove missing values
+dataset <- subset(data, !is.na(Value))
+
+# Plot histogram
+hist(dataset$Value,
+     main = "Distribution of Calories Available Daily",
+     xlab = "Calories Available Daily",
+     ylab = "Frequency",
+     col = "lightblue",
+     border = "black",
+     breaks = 10)
+
+
+```
+
+## Question 5
+
+```{r}
+#Change values to numeric
+data$Value <- as.numeric(data$Value)
+
+dataset <- subset(data, !is.na(Value) & !is.na(Year))
+
+#Split into two samples
+
+sample1 <- subset(dataset, Year >=1970 & Year <=1995)
+sample2 <- subset(dataset, Year<=1995 & Year <=2019)
+
+#Run two-sample t-test (unequal variance)
+t_test_result <- wilcox.test(sample1$Value, sample2$Value, var.equal = FALSE)
+
+# Show result
+print(t_test_result)
+
+
+```
+
+With a p-value of 1, this means the null hypothesis can be accepted due to it being more than 0.05 and that the observed correlation is due to random chance.

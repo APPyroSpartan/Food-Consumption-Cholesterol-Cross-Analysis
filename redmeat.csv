@@ -1,0 +1,801 @@
+Commodity,Year,Attribute,Value
+Beef: Per capita availability adjusted for loss,1970,Primary weight-Lbs/year,114.3640394
+Beef: Per capita availability adjusted for loss,1971,Primary weight-Lbs/year,113.4313824
+Beef: Per capita availability adjusted for loss,1972,Primary weight-Lbs/year,115.2597684
+Beef: Per capita availability adjusted for loss,1973,Primary weight-Lbs/year,108.8125477
+Beef: Per capita availability adjusted for loss,1974,Primary weight-Lbs/year,115.6848998
+Beef: Per capita availability adjusted for loss,1975,Primary weight-Lbs/year,119.1336545
+Beef: Per capita availability adjusted for loss,1976,Primary weight-Lbs/year,127.1968574
+Beef: Per capita availability adjusted for loss,1977,Primary weight-Lbs/year,123.7097154
+Beef: Per capita availability adjusted for loss,1978,Primary weight-Lbs/year,117.738655
+Beef: Per capita availability adjusted for loss,1979,Primary weight-Lbs/year,105.3340682
+Beef: Per capita availability adjusted for loss,1980,Primary weight-Lbs/year,103.2522312
+Beef: Per capita availability adjusted for loss,1981,Primary weight-Lbs/year,104.2637092
+Beef: Per capita availability adjusted for loss,1982,Primary weight-Lbs/year,103.8732715
+Beef: Per capita availability adjusted for loss,1983,Primary weight-Lbs/year,106.1178294
+Beef: Per capita availability adjusted for loss,1984,Primary weight-Lbs/year,105.7823351
+Beef: Per capita availability adjusted for loss,1985,Primary weight-Lbs/year,106.8180854
+Beef: Per capita availability adjusted for loss,1986,Primary weight-Lbs/year,107.7724016
+Beef: Per capita availability adjusted for loss,1987,Primary weight-Lbs/year,103.8037807
+Beef: Per capita availability adjusted for loss,1988,Primary weight-Lbs/year,102.7985812
+Beef: Per capita availability adjusted for loss,1989,Primary weight-Lbs/year,97.66676429
+Beef: Per capita availability adjusted for loss,1990,Primary weight-Lbs/year,95.79493066
+Beef: Per capita availability adjusted for loss,1991,Primary weight-Lbs/year,94.8579537
+Beef: Per capita availability adjusted for loss,1992,Primary weight-Lbs/year,94.14654131
+Beef: Per capita availability adjusted for loss,1993,Primary weight-Lbs/year,92.00516532
+Beef: Per capita availability adjusted for loss,1994,Primary weight-Lbs/year,95.16616369
+Beef: Per capita availability adjusted for loss,1995,Primary weight-Lbs/year,95.54193299
+Beef: Per capita availability adjusted for loss,1996,Primary weight-Lbs/year,95.69076089
+Beef: Per capita availability adjusted for loss,1997,Primary weight-Lbs/year,93.61628985
+Beef: Per capita availability adjusted for loss,1998,Primary weight-Lbs/year,95.01117693
+Beef: Per capita availability adjusted for loss,1999,Primary weight-Lbs/year,96.16136773
+Beef: Per capita availability adjusted for loss,2000,Primary weight-Lbs/year,96.48583636
+Beef: Per capita availability adjusted for loss,2001,Primary weight-Lbs/year,94.34736411
+Beef: Per capita availability adjusted for loss,2002,Primary weight-Lbs/year,96.42981396
+Beef: Per capita availability adjusted for loss,2003,Primary weight-Lbs/year,92.59231101
+Beef: Per capita availability adjusted for loss,2004,Primary weight-Lbs/year,94.19552234
+Beef: Per capita availability adjusted for loss,2005,Primary weight-Lbs/year,93.38353064
+Beef: Per capita availability adjusted for loss,2006,Primary weight-Lbs/year,93.82993128
+Beef: Per capita availability adjusted for loss,2007,Primary weight-Lbs/year,92.85439829
+Beef: Per capita availability adjusted for loss,2008,Primary weight-Lbs/year,88.76164832
+Beef: Per capita availability adjusted for loss,2009,Primary weight-Lbs/year,86.81698457
+Beef: Per capita availability adjusted for loss,2010,Primary weight-Lbs/year,84.71410274
+Beef: Per capita availability adjusted for loss,2011,Primary weight-Lbs/year,81.3378092
+Beef: Per capita availability adjusted for loss,2012,Primary weight-Lbs/year,81.51259071
+Beef: Per capita availability adjusted for loss,2013,Primary weight-Lbs/year,80.08873308
+Beef: Per capita availability adjusted for loss,2014,Primary weight-Lbs/year,77.04459038
+Beef: Per capita availability adjusted for loss,2015,Primary weight-Lbs/year,76.84427492
+Beef: Per capita availability adjusted for loss,2016,Primary weight-Lbs/year,79.10092897
+Beef: Per capita availability adjusted for loss,2017,Primary weight-Lbs/year,81.14835123
+Beef: Per capita availability adjusted for loss,2018,Primary weight-Lbs/year,81.46964135
+Beef: Per capita availability adjusted for loss,2019,Primary weight-Lbs/year,82.51836697
+Beef: Per capita availability adjusted for loss,1970,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1971,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1972,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1973,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1974,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1975,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1976,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1977,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1978,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1979,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1980,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1981,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1982,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1983,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1984,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1985,Loss from primary to retail weight-Percent,30.2
+Beef: Per capita availability adjusted for loss,1986,Loss from primary to retail weight-Percent,31
+Beef: Per capita availability adjusted for loss,1987,Loss from primary to retail weight-Percent,33
+Beef: Per capita availability adjusted for loss,1988,Loss from primary to retail weight-Percent,33.3
+Beef: Per capita availability adjusted for loss,1989,Loss from primary to retail weight-Percent,33.3
+Beef: Per capita availability adjusted for loss,1990,Loss from primary to retail weight-Percent,33.3
+Beef: Per capita availability adjusted for loss,1991,Loss from primary to retail weight-Percent,33.7
+Beef: Per capita availability adjusted for loss,1992,Loss from primary to retail weight-Percent,33.7
+Beef: Per capita availability adjusted for loss,1993,Loss from primary to retail weight-Percent,33.7
+Beef: Per capita availability adjusted for loss,1994,Loss from primary to retail weight-Percent,33.9
+Beef: Per capita availability adjusted for loss,1995,Loss from primary to retail weight-Percent,33.5
+Beef: Per capita availability adjusted for loss,1996,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,1997,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,1998,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,1999,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2000,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2001,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2002,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2003,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2004,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2005,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2006,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2007,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2008,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2009,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2010,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2011,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2012,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2013,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2014,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2015,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2016,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2017,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2018,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,2019,Loss from primary to retail weight-Percent,33.1
+Beef: Per capita availability adjusted for loss,1970,Retail weight-Lbs/year,79.82609948
+Beef: Per capita availability adjusted for loss,1971,Retail weight-Lbs/year,79.17510491
+Beef: Per capita availability adjusted for loss,1972,Retail weight-Lbs/year,80.45131832
+Beef: Per capita availability adjusted for loss,1973,Retail weight-Lbs/year,75.95115826
+Beef: Per capita availability adjusted for loss,1974,Retail weight-Lbs/year,80.74806005
+Beef: Per capita availability adjusted for loss,1975,Retail weight-Lbs/year,83.15529083
+Beef: Per capita availability adjusted for loss,1976,Retail weight-Lbs/year,88.78340645
+Beef: Per capita availability adjusted for loss,1977,Retail weight-Lbs/year,86.34938132
+Beef: Per capita availability adjusted for loss,1978,Retail weight-Lbs/year,82.18158118
+Beef: Per capita availability adjusted for loss,1979,Retail weight-Lbs/year,73.52317961
+Beef: Per capita availability adjusted for loss,1980,Retail weight-Lbs/year,72.07005737
+Beef: Per capita availability adjusted for loss,1981,Retail weight-Lbs/year,72.77606905
+Beef: Per capita availability adjusted for loss,1982,Retail weight-Lbs/year,72.5035435
+Beef: Per capita availability adjusted for loss,1983,Retail weight-Lbs/year,74.07024494
+Beef: Per capita availability adjusted for loss,1984,Retail weight-Lbs/year,73.83606991
+Beef: Per capita availability adjusted for loss,1985,Retail weight-Lbs/year,74.55902363
+Beef: Per capita availability adjusted for loss,1986,Retail weight-Lbs/year,74.36295711
+Beef: Per capita availability adjusted for loss,1987,Retail weight-Lbs/year,69.54853304
+Beef: Per capita availability adjusted for loss,1988,Retail weight-Lbs/year,68.56665365
+Beef: Per capita availability adjusted for loss,1989,Retail weight-Lbs/year,65.14373178
+Beef: Per capita availability adjusted for loss,1990,Retail weight-Lbs/year,63.89521875
+Beef: Per capita availability adjusted for loss,1991,Retail weight-Lbs/year,62.8908233
+Beef: Per capita availability adjusted for loss,1992,Retail weight-Lbs/year,62.41915689
+Beef: Per capita availability adjusted for loss,1993,Retail weight-Lbs/year,60.99942461
+Beef: Per capita availability adjusted for loss,1994,Retail weight-Lbs/year,62.9048342
+Beef: Per capita availability adjusted for loss,1995,Retail weight-Lbs/year,63.53538544
+Beef: Per capita availability adjusted for loss,1996,Retail weight-Lbs/year,64.01711903
+Beef: Per capita availability adjusted for loss,1997,Retail weight-Lbs/year,62.62929791
+Beef: Per capita availability adjusted for loss,1998,Retail weight-Lbs/year,63.56247736
+Beef: Per capita availability adjusted for loss,1999,Retail weight-Lbs/year,64.33195501
+Beef: Per capita availability adjusted for loss,2000,Retail weight-Lbs/year,64.54902452
+Beef: Per capita availability adjusted for loss,2001,Retail weight-Lbs/year,63.11838659
+Beef: Per capita availability adjusted for loss,2002,Retail weight-Lbs/year,64.51154554
+Beef: Per capita availability adjusted for loss,2003,Retail weight-Lbs/year,61.94425607
+Beef: Per capita availability adjusted for loss,2004,Retail weight-Lbs/year,63.01680445
+Beef: Per capita availability adjusted for loss,2005,Retail weight-Lbs/year,62.473582
+Beef: Per capita availability adjusted for loss,2006,Retail weight-Lbs/year,62.77222403
+Beef: Per capita availability adjusted for loss,2007,Retail weight-Lbs/year,62.11959245
+Beef: Per capita availability adjusted for loss,2008,Retail weight-Lbs/year,59.38154273
+Beef: Per capita availability adjusted for loss,2009,Retail weight-Lbs/year,58.08056268
+Beef: Per capita availability adjusted for loss,2010,Retail weight-Lbs/year,56.67373473
+Beef: Per capita availability adjusted for loss,2011,Retail weight-Lbs/year,54.41499436
+Beef: Per capita availability adjusted for loss,2012,Retail weight-Lbs/year,54.53192318
+Beef: Per capita availability adjusted for loss,2013,Retail weight-Lbs/year,53.57936243
+Beef: Per capita availability adjusted for loss,2014,Retail weight-Lbs/year,51.54283096
+Beef: Per capita availability adjusted for loss,2015,Retail weight-Lbs/year,51.40881992
+Beef: Per capita availability adjusted for loss,2016,Retail weight-Lbs/year,52.91852148
+Beef: Per capita availability adjusted for loss,2017,Retail weight-Lbs/year,54.28824697
+Beef: Per capita availability adjusted for loss,2018,Retail weight-Lbs/year,54.50319006
+Beef: Per capita availability adjusted for loss,2019,Retail weight-Lbs/year,55.2047875
+Beef: Per capita availability adjusted for loss,1970,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1971,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1972,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1973,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1974,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1975,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1976,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1977,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1978,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1979,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1980,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1981,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1982,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1983,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1984,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1985,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1986,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1987,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1988,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1989,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1990,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1991,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1992,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1993,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1994,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1995,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1996,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1997,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1998,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1999,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2000,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2001,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2002,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2003,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2004,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2005,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2006,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2007,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2008,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2009,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2010,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2011,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2012,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2013,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2014,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2015,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2016,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2017,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2018,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,2019,Loss from retail/ institutional to consumer level-Percent,4.344564675
+Beef: Per capita availability adjusted for loss,1970,Consumer weight-Lbs/year,76.35800296
+Beef: Per capita availability adjusted for loss,1971,Consumer weight-Lbs/year,75.73529127
+Beef: Per capita availability adjusted for loss,1972,Consumer weight-Lbs/year,76.95605876
+Beef: Per capita availability adjusted for loss,1973,Consumer weight-Lbs/year,72.65141107
+Beef: Per capita availability adjusted for loss,1974,Consumer weight-Lbs/year,77.23990836
+Beef: Per capita availability adjusted for loss,1975,Consumer weight-Lbs/year,79.54255544
+Beef: Per capita availability adjusted for loss,1976,Consumer weight-Lbs/year,84.92615394
+Beef: Per capita availability adjusted for loss,1977,Consumer weight-Lbs/year,82.5978766
+Beef: Per capita availability adjusted for loss,1978,Consumer weight-Lbs/year,78.61114923
+Beef: Per capita availability adjusted for loss,1979,Consumer weight-Lbs/year,70.32891752
+Beef: Per capita availability adjusted for loss,1980,Consumer weight-Lbs/year,68.93892712
+Beef: Per capita availability adjusted for loss,1981,Consumer weight-Lbs/year,69.61426566
+Beef: Per capita availability adjusted for loss,1982,Consumer weight-Lbs/year,69.35358016
+Beef: Per capita availability adjusted for loss,1983,Consumer weight-Lbs/year,70.85221524
+Beef: Per capita availability adjusted for loss,1984,Consumer weight-Lbs/year,70.6282141
+Beef: Per capita availability adjusted for loss,1985,Consumer weight-Lbs/year,71.31975863
+Beef: Per capita availability adjusted for loss,1986,Consumer weight-Lbs/year,71.13221035
+Beef: Per capita availability adjusted for loss,1987,Consumer weight-Lbs/year,66.52695205
+Beef: Per capita availability adjusted for loss,1988,Consumer weight-Lbs/year,65.58773104
+Beef: Per capita availability adjusted for loss,1989,Consumer weight-Lbs/year,62.31352022
+Beef: Per capita availability adjusted for loss,1990,Consumer weight-Lbs/year,61.11924965
+Beef: Per capita availability adjusted for loss,1991,Consumer weight-Lbs/year,60.15849081
+Beef: Per capita availability adjusted for loss,1992,Consumer weight-Lbs/year,59.70731625
+Beef: Per capita availability adjusted for loss,1993,Consumer weight-Lbs/year,58.34926515
+Beef: Per capita availability adjusted for loss,1994,Consumer weight-Lbs/year,60.17189299
+Beef: Per capita availability adjusted for loss,1995,Consumer weight-Lbs/year,60.77504953
+Beef: Per capita availability adjusted for loss,1996,Consumer weight-Lbs/year,61.2358539
+Beef: Per capita availability adjusted for loss,1997,Consumer weight-Lbs/year,59.90832755
+Beef: Per capita availability adjusted for loss,1998,Consumer weight-Lbs/year,60.80096442
+Beef: Per capita availability adjusted for loss,1999,Consumer weight-Lbs/year,61.53701162
+Beef: Per capita availability adjusted for loss,2000,Consumer weight-Lbs/year,61.74465041
+Beef: Per capita availability adjusted for loss,2001,Consumer weight-Lbs/year,60.37616746
+Beef: Per capita availability adjusted for loss,2002,Consumer weight-Lbs/year,61.70879972
+Beef: Per capita availability adjusted for loss,2003,Consumer weight-Lbs/year,59.2530478
+Beef: Per capita availability adjusted for loss,2004,Consumer weight-Lbs/year,60.27899862
+Beef: Per capita availability adjusted for loss,2005,Consumer weight-Lbs/year,59.75937683
+Beef: Per capita availability adjusted for loss,2006,Consumer weight-Lbs/year,60.04504416
+Beef: Per capita availability adjusted for loss,2007,Consumer weight-Lbs/year,59.42076658
+Beef: Per capita availability adjusted for loss,2008,Consumer weight-Lbs/year,56.8016732
+Beef: Per capita availability adjusted for loss,2009,Consumer weight-Lbs/year,55.55721507
+Beef: Per capita availability adjusted for loss,2010,Consumer weight-Lbs/year,54.21150767
+Beef: Per capita availability adjusted for loss,2011,Consumer weight-Lbs/year,52.05089974
+Beef: Per capita availability adjusted for loss,2012,Consumer weight-Lbs/year,52.16274851
+Beef: Per capita availability adjusted for loss,2013,Consumer weight-Lbs/year,51.25157237
+Beef: Per capita availability adjusted for loss,2014,Consumer weight-Lbs/year,49.30351934
+Beef: Per capita availability adjusted for loss,2015,Consumer weight-Lbs/year,49.17533049
+Beef: Per capita availability adjusted for loss,2016,Consumer weight-Lbs/year,50.61944209
+Beef: Per capita availability adjusted for loss,2017,Consumer weight-Lbs/year,51.92965897
+Beef: Per capita availability adjusted for loss,2018,Consumer weight-Lbs/year,52.13526372
+Beef: Per capita availability adjusted for loss,2019,Consumer weight-Lbs/year,52.80637981
+Beef: Per capita availability adjusted for loss,1970,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1971,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1972,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1973,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1974,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1975,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1976,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1977,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1978,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1979,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1980,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1981,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1982,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1983,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1984,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1985,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1986,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1987,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1988,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1989,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1990,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1991,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1992,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1993,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1994,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1995,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1996,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1997,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1998,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1999,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2000,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2001,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2002,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2003,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2004,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2005,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2006,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2007,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2008,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2009,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2010,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2011,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2012,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2013,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2014,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2015,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2016,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2017,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2018,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,2019,Loss at consumer level-Nonedible share-Percent,0
+Beef: Per capita availability adjusted for loss,1970,Loss at consumer level-Edible weight-Lbs/year,76.35800296
+Beef: Per capita availability adjusted for loss,1971,Loss at consumer level-Edible weight-Lbs/year,75.73529127
+Beef: Per capita availability adjusted for loss,1972,Loss at consumer level-Edible weight-Lbs/year,76.95605876
+Beef: Per capita availability adjusted for loss,1973,Loss at consumer level-Edible weight-Lbs/year,72.65141107
+Beef: Per capita availability adjusted for loss,1974,Loss at consumer level-Edible weight-Lbs/year,77.23990836
+Beef: Per capita availability adjusted for loss,1975,Loss at consumer level-Edible weight-Lbs/year,79.54255544
+Beef: Per capita availability adjusted for loss,1976,Loss at consumer level-Edible weight-Lbs/year,84.92615394
+Beef: Per capita availability adjusted for loss,1977,Loss at consumer level-Edible weight-Lbs/year,82.5978766
+Beef: Per capita availability adjusted for loss,1978,Loss at consumer level-Edible weight-Lbs/year,78.61114923
+Beef: Per capita availability adjusted for loss,1979,Loss at consumer level-Edible weight-Lbs/year,70.32891752
+Beef: Per capita availability adjusted for loss,1980,Loss at consumer level-Edible weight-Lbs/year,68.93892712
+Beef: Per capita availability adjusted for loss,1981,Loss at consumer level-Edible weight-Lbs/year,69.61426566
+Beef: Per capita availability adjusted for loss,1982,Loss at consumer level-Edible weight-Lbs/year,69.35358016
+Beef: Per capita availability adjusted for loss,1983,Loss at consumer level-Edible weight-Lbs/year,70.85221524
+Beef: Per capita availability adjusted for loss,1984,Loss at consumer level-Edible weight-Lbs/year,70.6282141
+Beef: Per capita availability adjusted for loss,1985,Loss at consumer level-Edible weight-Lbs/year,71.31975863
+Beef: Per capita availability adjusted for loss,1986,Loss at consumer level-Edible weight-Lbs/year,71.13221035
+Beef: Per capita availability adjusted for loss,1987,Loss at consumer level-Edible weight-Lbs/year,66.52695205
+Beef: Per capita availability adjusted for loss,1988,Loss at consumer level-Edible weight-Lbs/year,65.58773104
+Beef: Per capita availability adjusted for loss,1989,Loss at consumer level-Edible weight-Lbs/year,62.31352022
+Beef: Per capita availability adjusted for loss,1990,Loss at consumer level-Edible weight-Lbs/year,61.11924965
+Beef: Per capita availability adjusted for loss,1991,Loss at consumer level-Edible weight-Lbs/year,60.15849081
+Beef: Per capita availability adjusted for loss,1992,Loss at consumer level-Edible weight-Lbs/year,59.70731625
+Beef: Per capita availability adjusted for loss,1993,Loss at consumer level-Edible weight-Lbs/year,58.34926515
+Beef: Per capita availability adjusted for loss,1994,Loss at consumer level-Edible weight-Lbs/year,60.17189299
+Beef: Per capita availability adjusted for loss,1995,Loss at consumer level-Edible weight-Lbs/year,60.77504953
+Beef: Per capita availability adjusted for loss,1996,Loss at consumer level-Edible weight-Lbs/year,61.2358539
+Beef: Per capita availability adjusted for loss,1997,Loss at consumer level-Edible weight-Lbs/year,59.90832755
+Beef: Per capita availability adjusted for loss,1998,Loss at consumer level-Edible weight-Lbs/year,60.80096442
+Beef: Per capita availability adjusted for loss,1999,Loss at consumer level-Edible weight-Lbs/year,61.53701162
+Beef: Per capita availability adjusted for loss,2000,Loss at consumer level-Edible weight-Lbs/year,61.74465041
+Beef: Per capita availability adjusted for loss,2001,Loss at consumer level-Edible weight-Lbs/year,60.37616746
+Beef: Per capita availability adjusted for loss,2002,Loss at consumer level-Edible weight-Lbs/year,61.70879972
+Beef: Per capita availability adjusted for loss,2003,Loss at consumer level-Edible weight-Lbs/year,59.2530478
+Beef: Per capita availability adjusted for loss,2004,Loss at consumer level-Edible weight-Lbs/year,60.27899862
+Beef: Per capita availability adjusted for loss,2005,Loss at consumer level-Edible weight-Lbs/year,59.75937683
+Beef: Per capita availability adjusted for loss,2006,Loss at consumer level-Edible weight-Lbs/year,60.04504416
+Beef: Per capita availability adjusted for loss,2007,Loss at consumer level-Edible weight-Lbs/year,59.42076658
+Beef: Per capita availability adjusted for loss,2008,Loss at consumer level-Edible weight-Lbs/year,56.8016732
+Beef: Per capita availability adjusted for loss,2009,Loss at consumer level-Edible weight-Lbs/year,55.55721507
+Beef: Per capita availability adjusted for loss,2010,Loss at consumer level-Edible weight-Lbs/year,54.21150767
+Beef: Per capita availability adjusted for loss,2011,Loss at consumer level-Edible weight-Lbs/year,52.05089974
+Beef: Per capita availability adjusted for loss,2012,Loss at consumer level-Edible weight-Lbs/year,52.16274851
+Beef: Per capita availability adjusted for loss,2013,Loss at consumer level-Edible weight-Lbs/year,51.25157237
+Beef: Per capita availability adjusted for loss,2014,Loss at consumer level-Edible weight-Lbs/year,49.30351934
+Beef: Per capita availability adjusted for loss,2015,Loss at consumer level-Edible weight-Lbs/year,49.17533049
+Beef: Per capita availability adjusted for loss,2016,Loss at consumer level-Edible weight-Lbs/year,50.61944209
+Beef: Per capita availability adjusted for loss,2017,Loss at consumer level-Edible weight-Lbs/year,51.92965897
+Beef: Per capita availability adjusted for loss,2018,Loss at consumer level-Edible weight-Lbs/year,52.13526372
+Beef: Per capita availability adjusted for loss,2019,Loss at consumer level-Edible weight-Lbs/year,52.80637981
+Beef: Per capita availability adjusted for loss,1970,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1971,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1972,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1973,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1974,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1975,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1976,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1977,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1978,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1979,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1980,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1981,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1982,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1983,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1984,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1985,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1986,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1987,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1988,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1989,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1990,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1991,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1992,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1993,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1994,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1995,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1996,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1997,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1998,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1999,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2000,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2001,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2002,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2003,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2004,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2005,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2006,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2007,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2008,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2009,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2010,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2011,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2012,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2013,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2014,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2015,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2016,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2017,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2018,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,2019,Loss at consumer level-Other (cooking loss and uneaten food)-Percent,20
+Beef: Per capita availability adjusted for loss,1970,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1971,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1972,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1973,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1974,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1975,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1976,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1977,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1978,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1979,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1980,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1981,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1982,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1983,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1984,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1985,"Total loss, all levels-Percent",46.58600491
+Beef: Per capita availability adjusted for loss,1986,"Total loss, all levels-Percent",47.1981997
+Beef: Per capita availability adjusted for loss,1987,"Total loss, all levels-Percent",48.72868667
+Beef: Per capita availability adjusted for loss,1988,"Total loss, all levels-Percent",48.95825971
+Beef: Per capita availability adjusted for loss,1989,"Total loss, all levels-Percent",48.95825971
+Beef: Per capita availability adjusted for loss,1990,"Total loss, all levels-Percent",48.95825971
+Beef: Per capita availability adjusted for loss,1991,"Total loss, all levels-Percent",49.2643571
+Beef: Per capita availability adjusted for loss,1992,"Total loss, all levels-Percent",49.2643571
+Beef: Per capita availability adjusted for loss,1993,"Total loss, all levels-Percent",49.2643571
+Beef: Per capita availability adjusted for loss,1994,"Total loss, all levels-Percent",49.4174058
+Beef: Per capita availability adjusted for loss,1995,"Total loss, all levels-Percent",49.11130841
+Beef: Per capita availability adjusted for loss,1996,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,1997,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,1998,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,1999,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2000,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2001,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2002,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2003,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2004,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2005,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2006,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2007,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2008,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2009,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2010,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2011,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2012,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2013,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2014,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2015,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2016,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2017,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2018,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,2019,"Total loss, all levels-Percent",48.80521101
+Beef: Per capita availability adjusted for loss,1970,Per capita availability adjusted for loss-Lbs/year,61.08640237
+Beef: Per capita availability adjusted for loss,1971,Per capita availability adjusted for loss-Lbs/year,60.58823302
+Beef: Per capita availability adjusted for loss,1972,Per capita availability adjusted for loss-Lbs/year,61.56484701
+Beef: Per capita availability adjusted for loss,1973,Per capita availability adjusted for loss-Lbs/year,58.12112885
+Beef: Per capita availability adjusted for loss,1974,Per capita availability adjusted for loss-Lbs/year,61.79192669
+Beef: Per capita availability adjusted for loss,1975,Per capita availability adjusted for loss-Lbs/year,63.63404435
+Beef: Per capita availability adjusted for loss,1976,Per capita availability adjusted for loss-Lbs/year,67.94092315
+Beef: Per capita availability adjusted for loss,1977,Per capita availability adjusted for loss-Lbs/year,66.07830128
+Beef: Per capita availability adjusted for loss,1978,Per capita availability adjusted for loss-Lbs/year,62.88891939
+Beef: Per capita availability adjusted for loss,1979,Per capita availability adjusted for loss-Lbs/year,56.26313401
+Beef: Per capita availability adjusted for loss,1980,Per capita availability adjusted for loss-Lbs/year,55.15114169
+Beef: Per capita availability adjusted for loss,1981,Per capita availability adjusted for loss-Lbs/year,55.69141253
+Beef: Per capita availability adjusted for loss,1982,Per capita availability adjusted for loss-Lbs/year,55.48286413
+Beef: Per capita availability adjusted for loss,1983,Per capita availability adjusted for loss-Lbs/year,56.6817722
+Beef: Per capita availability adjusted for loss,1984,Per capita availability adjusted for loss-Lbs/year,56.50257128
+Beef: Per capita availability adjusted for loss,1985,Per capita availability adjusted for loss-Lbs/year,57.0558069
+Beef: Per capita availability adjusted for loss,1986,Per capita availability adjusted for loss-Lbs/year,56.90576828
+Beef: Per capita availability adjusted for loss,1987,Per capita availability adjusted for loss-Lbs/year,53.22156164
+Beef: Per capita availability adjusted for loss,1988,Per capita availability adjusted for loss-Lbs/year,52.47018483
+Beef: Per capita availability adjusted for loss,1989,Per capita availability adjusted for loss-Lbs/year,49.85081618
+Beef: Per capita availability adjusted for loss,1990,Per capita availability adjusted for loss-Lbs/year,48.89539972
+Beef: Per capita availability adjusted for loss,1991,Per capita availability adjusted for loss-Lbs/year,48.12679265
+Beef: Per capita availability adjusted for loss,1992,Per capita availability adjusted for loss-Lbs/year,47.765853
+Beef: Per capita availability adjusted for loss,1993,Per capita availability adjusted for loss-Lbs/year,46.67941212
+Beef: Per capita availability adjusted for loss,1994,Per capita availability adjusted for loss-Lbs/year,48.1375144
+Beef: Per capita availability adjusted for loss,1995,Per capita availability adjusted for loss-Lbs/year,48.62003962
+Beef: Per capita availability adjusted for loss,1996,Per capita availability adjusted for loss-Lbs/year,48.98868312
+Beef: Per capita availability adjusted for loss,1997,Per capita availability adjusted for loss-Lbs/year,47.92666204
+Beef: Per capita availability adjusted for loss,1998,Per capita availability adjusted for loss-Lbs/year,48.64077154
+Beef: Per capita availability adjusted for loss,1999,Per capita availability adjusted for loss-Lbs/year,49.22960929
+Beef: Per capita availability adjusted for loss,2000,Per capita availability adjusted for loss-Lbs/year,49.39572032
+Beef: Per capita availability adjusted for loss,2001,Per capita availability adjusted for loss-Lbs/year,48.30093397
+Beef: Per capita availability adjusted for loss,2002,Per capita availability adjusted for loss-Lbs/year,49.36703977
+Beef: Per capita availability adjusted for loss,2003,Per capita availability adjusted for loss-Lbs/year,47.40243824
+Beef: Per capita availability adjusted for loss,2004,Per capita availability adjusted for loss-Lbs/year,48.2231989
+Beef: Per capita availability adjusted for loss,2005,Per capita availability adjusted for loss-Lbs/year,47.80750146
+Beef: Per capita availability adjusted for loss,2006,Per capita availability adjusted for loss-Lbs/year,48.03603532
+Beef: Per capita availability adjusted for loss,2007,Per capita availability adjusted for loss-Lbs/year,47.53661327
+Beef: Per capita availability adjusted for loss,2008,Per capita availability adjusted for loss-Lbs/year,45.44133856
+Beef: Per capita availability adjusted for loss,2009,Per capita availability adjusted for loss-Lbs/year,44.44577205
+Beef: Per capita availability adjusted for loss,2010,Per capita availability adjusted for loss-Lbs/year,43.36920614
+Beef: Per capita availability adjusted for loss,2011,Per capita availability adjusted for loss-Lbs/year,41.64071979
+Beef: Per capita availability adjusted for loss,2012,Per capita availability adjusted for loss-Lbs/year,41.73019881
+Beef: Per capita availability adjusted for loss,2013,Per capita availability adjusted for loss-Lbs/year,41.0012579
+Beef: Per capita availability adjusted for loss,2014,Per capita availability adjusted for loss-Lbs/year,39.44281547
+Beef: Per capita availability adjusted for loss,2015,Per capita availability adjusted for loss-Lbs/year,39.34026439
+Beef: Per capita availability adjusted for loss,2016,Per capita availability adjusted for loss-Lbs/year,40.49555367
+Beef: Per capita availability adjusted for loss,2017,Per capita availability adjusted for loss-Lbs/year,41.54372718
+Beef: Per capita availability adjusted for loss,2018,Per capita availability adjusted for loss-Lbs/year,41.70821098
+Beef: Per capita availability adjusted for loss,2019,Per capita availability adjusted for loss-Lbs/year,42.24510384
+Beef: Per capita availability adjusted for loss,1970,Per capita availability adjusted for loss-Oz/day,2.677760104
+Beef: Per capita availability adjusted for loss,1971,Per capita availability adjusted for loss-Oz/day,2.655922543
+Beef: Per capita availability adjusted for loss,1972,Per capita availability adjusted for loss-Oz/day,2.69873302
+Beef: Per capita availability adjusted for loss,1973,Per capita availability adjusted for loss-Oz/day,2.547775511
+Beef: Per capita availability adjusted for loss,1974,Per capita availability adjusted for loss-Oz/day,2.708687197
+Beef: Per capita availability adjusted for loss,1975,Per capita availability adjusted for loss-Oz/day,2.789437561
+Beef: Per capita availability adjusted for loss,1976,Per capita availability adjusted for loss-Oz/day,2.978232248
+Beef: Per capita availability adjusted for loss,1977,Per capita availability adjusted for loss-Oz/day,2.89658307
+Beef: Per capita availability adjusted for loss,1978,Per capita availability adjusted for loss-Oz/day,2.756774548
+Beef: Per capita availability adjusted for loss,1979,Per capita availability adjusted for loss-Oz/day,2.466329162
+Beef: Per capita availability adjusted for loss,1980,Per capita availability adjusted for loss-Oz/day,2.417584293
+Beef: Per capita availability adjusted for loss,1981,Per capita availability adjusted for loss-Oz/day,2.441267399
+Beef: Per capita availability adjusted for loss,1982,Per capita availability adjusted for loss-Oz/day,2.432125551
+Beef: Per capita availability adjusted for loss,1983,Per capita availability adjusted for loss-Oz/day,2.484680425
+Beef: Per capita availability adjusted for loss,1984,Per capita availability adjusted for loss-Oz/day,2.476825042
+Beef: Per capita availability adjusted for loss,1985,Per capita availability adjusted for loss-Oz/day,2.501076467
+Beef: Per capita availability adjusted for loss,1986,Per capita availability adjusted for loss-Oz/day,2.494499431
+Beef: Per capita availability adjusted for loss,1987,Per capita availability adjusted for loss-Oz/day,2.332999962
+Beef: Per capita availability adjusted for loss,1988,Per capita availability adjusted for loss-Oz/day,2.300062897
+Beef: Per capita availability adjusted for loss,1989,Per capita availability adjusted for loss-Oz/day,2.185241257
+Beef: Per capita availability adjusted for loss,1990,Per capita availability adjusted for loss-Oz/day,2.143359988
+Beef: Per capita availability adjusted for loss,1991,Per capita availability adjusted for loss-Oz/day,2.109667623
+Beef: Per capita availability adjusted for loss,1992,Per capita availability adjusted for loss-Oz/day,2.093845611
+Beef: Per capita availability adjusted for loss,1993,Per capita availability adjusted for loss-Oz/day,2.046220805
+Beef: Per capita availability adjusted for loss,1994,Per capita availability adjusted for loss-Oz/day,2.110137617
+Beef: Per capita availability adjusted for loss,1995,Per capita availability adjusted for loss-Oz/day,2.131289408
+Beef: Per capita availability adjusted for loss,1996,Per capita availability adjusted for loss-Oz/day,2.147449123
+Beef: Per capita availability adjusted for loss,1997,Per capita availability adjusted for loss-Oz/day,2.100894775
+Beef: Per capita availability adjusted for loss,1998,Per capita availability adjusted for loss-Oz/day,2.132198204
+Beef: Per capita availability adjusted for loss,1999,Per capita availability adjusted for loss-Oz/day,2.15801027
+Beef: Per capita availability adjusted for loss,2000,Per capita availability adjusted for loss-Oz/day,2.16529185
+Beef: Per capita availability adjusted for loss,2001,Per capita availability adjusted for loss-Oz/day,2.117301215
+Beef: Per capita availability adjusted for loss,2002,Per capita availability adjusted for loss-Oz/day,2.16403462
+Beef: Per capita availability adjusted for loss,2003,Per capita availability adjusted for loss-Oz/day,2.077915101
+Beef: Per capita availability adjusted for loss,2004,Per capita availability adjusted for loss-Oz/day,2.11389365
+Beef: Per capita availability adjusted for loss,2005,Per capita availability adjusted for loss-Oz/day,2.095671297
+Beef: Per capita availability adjusted for loss,2006,Per capita availability adjusted for loss-Oz/day,2.10568922
+Beef: Per capita availability adjusted for loss,2007,Per capita availability adjusted for loss-Oz/day,2.083796746
+Beef: Per capita availability adjusted for loss,2008,Per capita availability adjusted for loss-Oz/day,1.991949087
+Beef: Per capita availability adjusted for loss,2009,Per capita availability adjusted for loss-Oz/day,1.948307816
+Beef: Per capita availability adjusted for loss,2010,Per capita availability adjusted for loss-Oz/day,1.901115885
+Beef: Per capita availability adjusted for loss,2011,Per capita availability adjusted for loss-Oz/day,1.825346621
+Beef: Per capita availability adjusted for loss,2012,Per capita availability adjusted for loss-Oz/day,1.829268989
+Beef: Per capita availability adjusted for loss,2013,Per capita availability adjusted for loss-Oz/day,1.797315415
+Beef: Per capita availability adjusted for loss,2014,Per capita availability adjusted for loss-Oz/day,1.72900013
+Beef: Per capita availability adjusted for loss,2015,Per capita availability adjusted for loss-Oz/day,1.72450474
+Beef: Per capita availability adjusted for loss,2016,Per capita availability adjusted for loss-Oz/day,1.775147558
+Beef: Per capita availability adjusted for loss,2017,Per capita availability adjusted for loss-Oz/day,1.82109489
+Beef: Per capita availability adjusted for loss,2018,Per capita availability adjusted for loss-Oz/day,1.828305139
+Beef: Per capita availability adjusted for loss,2019,Per capita availability adjusted for loss-Oz/day,1.851840169
+Beef: Per capita availability adjusted for loss,1970,Per capita availability adjusted for loss-G/day,75.91316006
+Beef: Per capita availability adjusted for loss,1971,Per capita availability adjusted for loss-G/day,75.29407614
+Beef: Per capita availability adjusted for loss,1972,Per capita availability adjusted for loss-G/day,76.50773174
+Beef: Per capita availability adjusted for loss,1973,Per capita availability adjusted for loss-G/day,72.22816186
+Beef: Per capita availability adjusted for loss,1974,Per capita availability adjusted for loss-G/day,76.7899277
+Beef: Per capita availability adjusted for loss,1975,Per capita availability adjusted for loss-G/day,79.07916012
+Beef: Per capita availability adjusted for loss,1976,Per capita availability adjusted for loss-G/day,84.43139511
+Beef: Per capita availability adjusted for loss,1977,Per capita availability adjusted for loss-G/day,82.11668174
+Beef: Per capita availability adjusted for loss,1978,Per capita availability adjusted for loss-G/day,78.15318006
+Beef: Per capita availability adjusted for loss,1979,Per capita availability adjusted for loss-G/day,69.91919859
+Beef: Per capita availability adjusted for loss,1980,Per capita availability adjusted for loss-G/day,68.53730593
+Beef: Per capita availability adjusted for loss,1981,Per capita availability adjusted for loss-G/day,69.20871012
+Beef: Per capita availability adjusted for loss,1982,Per capita availability adjusted for loss-G/day,68.9495433
+Beef: Per capita availability adjusted for loss,1983,Per capita availability adjusted for loss-G/day,70.43944771
+Beef: Per capita availability adjusted for loss,1984,Per capita availability adjusted for loss-G/day,70.21675154
+Beef: Per capita availability adjusted for loss,1985,Per capita availability adjusted for loss-G/day,70.9042673
+Beef: Per capita availability adjusted for loss,1986,Per capita availability adjusted for loss-G/day,70.71781163
+Beef: Per capita availability adjusted for loss,1987,Per capita availability adjusted for loss-G/day,66.13938243
+Beef: Per capita availability adjusted for loss,1988,Per capita availability adjusted for loss-G/day,65.20563309
+Beef: Per capita availability adjusted for loss,1989,Per capita availability adjusted for loss-G/day,61.95049702
+Beef: Per capita availability adjusted for loss,1990,Per capita availability adjusted for loss-G/day,60.76318397
+Beef: Per capita availability adjusted for loss,1991,Per capita availability adjusted for loss-G/day,59.80802227
+Beef: Per capita availability adjusted for loss,1992,Per capita availability adjusted for loss-G/day,59.35947614
+Beef: Per capita availability adjusted for loss,1993,Per capita availability adjusted for loss-G/day,58.00933672
+Beef: Per capita availability adjusted for loss,1994,Per capita availability adjusted for loss-G/day,59.82134638
+Beef: Per capita availability adjusted for loss,1995,Per capita availability adjusted for loss-G/day,60.42098907
+Beef: Per capita availability adjusted for loss,1996,Per capita availability adjusted for loss-G/day,60.87910891
+Beef: Per capita availability adjusted for loss,1997,Per capita availability adjusted for loss-G/day,59.55931641
+Beef: Per capita availability adjusted for loss,1998,Per capita availability adjusted for loss-G/day,60.446753
+Beef: Per capita availability adjusted for loss,1999,Per capita availability adjusted for loss-G/day,61.17851216
+Beef: Per capita availability adjusted for loss,2000,Per capita availability adjusted for loss-G/day,61.3849413
+Beef: Per capita availability adjusted for loss,2001,Per capita availability adjusted for loss-G/day,60.0244308
+Beef: Per capita availability adjusted for loss,2002,Per capita availability adjusted for loss-G/day,61.34929947
+Beef: Per capita availability adjusted for loss,2003,Per capita availability adjusted for loss-G/day,58.90785415
+Beef: Per capita availability adjusted for loss,2004,Per capita availability adjusted for loss-G/day,59.92782804
+Beef: Per capita availability adjusted for loss,2005,Per capita availability adjusted for loss-G/day,59.41123343
+Beef: Per capita availability adjusted for loss,2006,Per capita availability adjusted for loss-G/day,59.69523653
+Beef: Per capita availability adjusted for loss,2007,Per capita availability adjusted for loss-G/day,59.07459585
+Beef: Per capita availability adjusted for loss,2008,Per capita availability adjusted for loss-G/day,56.47076065
+Beef: Per capita availability adjusted for loss,2009,Per capita availability adjusted for loss-G/day,55.23355243
+Beef: Per capita availability adjusted for loss,2010,Per capita availability adjusted for loss-G/day,53.89568479
+Beef: Per capita availability adjusted for loss,2011,Per capita availability adjusted for loss-G/day,51.74766403
+Beef: Per capita availability adjusted for loss,2012,Per capita availability adjusted for loss-G/day,51.8588612
+Beef: Per capita availability adjusted for loss,2013,Per capita availability adjusted for loss-G/day,50.95299335
+Beef: Per capita availability adjusted for loss,2014,Per capita availability adjusted for loss-G/day,49.01628919
+Beef: Per capita availability adjusted for loss,2015,Per capita availability adjusted for loss-G/day,48.88884714
+Beef: Per capita availability adjusted for loss,2016,Per capita availability adjusted for loss-G/day,50.3245457
+Beef: Per capita availability adjusted for loss,2017,Per capita availability adjusted for loss-G/day,51.62712958
+Beef: Per capita availability adjusted for loss,2018,Per capita availability adjusted for loss-G/day,51.83153653
+Beef: Per capita availability adjusted for loss,2019,Per capita availability adjusted for loss-G/day,52.49874286
+Beef: Per capita availability adjusted for loss,1970,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1971,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1972,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1973,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1974,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1975,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1976,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1977,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1978,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1979,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1980,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1981,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1982,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1983,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1984,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1985,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1986,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1987,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1988,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1989,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1990,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1991,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1992,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1993,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1994,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1995,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1996,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1997,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1998,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1999,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2000,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2001,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2002,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2003,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2004,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2005,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2006,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2007,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2008,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2009,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2010,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2011,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2012,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2013,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2014,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2015,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2016,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2017,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2018,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,2019,Calories per ounce equivalent (oz-eq)-Number,82
+Beef: Per capita availability adjusted for loss,1970,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1971,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1972,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1973,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1974,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1975,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1976,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1977,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1978,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1979,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1980,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1981,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1982,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1983,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1984,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1985,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1986,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1987,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1988,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1989,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1990,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1991,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1992,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1993,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1994,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1995,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1996,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1997,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1998,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1999,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2000,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2001,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2002,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2003,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2004,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2005,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2006,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2007,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2008,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2009,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2010,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2011,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2012,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2013,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2014,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2015,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2016,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2017,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2018,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,2019,Ounce-equivalent-Ounces ,1
+Beef: Per capita availability adjusted for loss,1970,Calories available daily-Number,219.5763285
+Beef: Per capita availability adjusted for loss,1971,Calories available daily-Number,217.7856486
+Beef: Per capita availability adjusted for loss,1972,Calories available daily-Number,221.2961076
+Beef: Per capita availability adjusted for loss,1973,Calories available daily-Number,208.9175919
+Beef: Per capita availability adjusted for loss,1974,Calories available daily-Number,222.1123502
+Beef: Per capita availability adjusted for loss,1975,Calories available daily-Number,228.73388
+Beef: Per capita availability adjusted for loss,1976,Calories available daily-Number,244.2150443
+Beef: Per capita availability adjusted for loss,1977,Calories available daily-Number,237.5198117
+Beef: Per capita availability adjusted for loss,1978,Calories available daily-Number,226.055513
+Beef: Per capita availability adjusted for loss,1979,Calories available daily-Number,202.2389913
+Beef: Per capita availability adjusted for loss,1980,Calories available daily-Number,198.2419121
+Beef: Per capita availability adjusted for loss,1981,Calories available daily-Number,200.1839267
+Beef: Per capita availability adjusted for loss,1982,Calories available daily-Number,199.4342952
+Beef: Per capita availability adjusted for loss,1983,Calories available daily-Number,203.7437949
+Beef: Per capita availability adjusted for loss,1984,Calories available daily-Number,203.0996535
+Beef: Per capita availability adjusted for loss,1985,Calories available daily-Number,205.0882703
+Beef: Per capita availability adjusted for loss,1986,Calories available daily-Number,204.5489534
+Beef: Per capita availability adjusted for loss,1987,Calories available daily-Number,191.3059969
+Beef: Per capita availability adjusted for loss,1988,Calories available daily-Number,188.6051575
+Beef: Per capita availability adjusted for loss,1989,Calories available daily-Number,179.1897831
+Beef: Per capita availability adjusted for loss,1990,Calories available daily-Number,175.755519
+Beef: Per capita availability adjusted for loss,1991,Calories available daily-Number,172.9927451
+Beef: Per capita availability adjusted for loss,1992,Calories available daily-Number,171.6953401
+Beef: Per capita availability adjusted for loss,1993,Calories available daily-Number,167.790106
+Beef: Per capita availability adjusted for loss,1994,Calories available daily-Number,173.0312846
+Beef: Per capita availability adjusted for loss,1995,Calories available daily-Number,174.7657315
+Beef: Per capita availability adjusted for loss,1996,Calories available daily-Number,176.0908281
+Beef: Per capita availability adjusted for loss,1997,Calories available daily-Number,172.2733715
+Beef: Per capita availability adjusted for loss,1998,Calories available daily-Number,174.8402528
+Beef: Per capita availability adjusted for loss,1999,Calories available daily-Number,176.9568422
+Beef: Per capita availability adjusted for loss,2000,Calories available daily-Number,177.5539317
+Beef: Per capita availability adjusted for loss,2001,Calories available daily-Number,173.6186996
+Beef: Per capita availability adjusted for loss,2002,Calories available daily-Number,177.4508389
+Beef: Per capita availability adjusted for loss,2003,Calories available daily-Number,170.3890383
+Beef: Per capita availability adjusted for loss,2004,Calories available daily-Number,173.3392793
+Beef: Per capita availability adjusted for loss,2005,Calories available daily-Number,171.8450463
+Beef: Per capita availability adjusted for loss,2006,Calories available daily-Number,172.666516
+Beef: Per capita availability adjusted for loss,2007,Calories available daily-Number,170.8713332
+Beef: Per capita availability adjusted for loss,2008,Calories available daily-Number,163.3398252
+Beef: Per capita availability adjusted for loss,2009,Calories available daily-Number,159.7612409
+Beef: Per capita availability adjusted for loss,2010,Calories available daily-Number,155.8915026
+Beef: Per capita availability adjusted for loss,2011,Calories available daily-Number,149.6784229
+Beef: Per capita availability adjusted for loss,2012,Calories available daily-Number,150.0000571
+Beef: Per capita availability adjusted for loss,2013,Calories available daily-Number,147.379864
+Beef: Per capita availability adjusted for loss,2014,Calories available daily-Number,141.7780107
+Beef: Per capita availability adjusted for loss,2015,Calories available daily-Number,141.4093887
+Beef: Per capita availability adjusted for loss,2016,Calories available daily-Number,145.5620998
+Beef: Per capita availability adjusted for loss,2017,Calories available daily-Number,149.329781
+Beef: Per capita availability adjusted for loss,2018,Calories available daily-Number,149.9210214
+Beef: Per capita availability adjusted for loss,2019,Calories available daily-Number,151.8508938
+Beef: Per capita availability adjusted for loss,1970,Food pattern equivalents-Ounce-eq,2.677760104
+Beef: Per capita availability adjusted for loss,1971,Food pattern equivalents-Ounce-eq,2.655922543
+Beef: Per capita availability adjusted for loss,1972,Food pattern equivalents-Ounce-eq,2.69873302
+Beef: Per capita availability adjusted for loss,1973,Food pattern equivalents-Ounce-eq,2.547775511
+Beef: Per capita availability adjusted for loss,1974,Food pattern equivalents-Ounce-eq,2.708687197
+Beef: Per capita availability adjusted for loss,1975,Food pattern equivalents-Ounce-eq,2.789437561
+Beef: Per capita availability adjusted for loss,1976,Food pattern equivalents-Ounce-eq,2.978232248
+Beef: Per capita availability adjusted for loss,1977,Food pattern equivalents-Ounce-eq,2.89658307
+Beef: Per capita availability adjusted for loss,1978,Food pattern equivalents-Ounce-eq,2.756774548
+Beef: Per capita availability adjusted for loss,1979,Food pattern equivalents-Ounce-eq,2.466329162
+Beef: Per capita availability adjusted for loss,1980,Food pattern equivalents-Ounce-eq,2.417584293
+Beef: Per capita availability adjusted for loss,1981,Food pattern equivalents-Ounce-eq,2.441267399
+Beef: Per capita availability adjusted for loss,1982,Food pattern equivalents-Ounce-eq,2.432125551
+Beef: Per capita availability adjusted for loss,1983,Food pattern equivalents-Ounce-eq,2.484680425
+Beef: Per capita availability adjusted for loss,1984,Food pattern equivalents-Ounce-eq,2.476825042
+Beef: Per capita availability adjusted for loss,1985,Food pattern equivalents-Ounce-eq,2.501076467
+Beef: Per capita availability adjusted for loss,1986,Food pattern equivalents-Ounce-eq,2.494499431
+Beef: Per capita availability adjusted for loss,1987,Food pattern equivalents-Ounce-eq,2.332999962
+Beef: Per capita availability adjusted for loss,1988,Food pattern equivalents-Ounce-eq,2.300062897
+Beef: Per capita availability adjusted for loss,1989,Food pattern equivalents-Ounce-eq,2.185241257
+Beef: Per capita availability adjusted for loss,1990,Food pattern equivalents-Ounce-eq,2.143359988
+Beef: Per capita availability adjusted for loss,1991,Food pattern equivalents-Ounce-eq,2.109667623
+Beef: Per capita availability adjusted for loss,1992,Food pattern equivalents-Ounce-eq,2.093845611
+Beef: Per capita availability adjusted for loss,1993,Food pattern equivalents-Ounce-eq,2.046220805
+Beef: Per capita availability adjusted for loss,1994,Food pattern equivalents-Ounce-eq,2.110137617
+Beef: Per capita availability adjusted for loss,1995,Food pattern equivalents-Ounce-eq,2.131289408
+Beef: Per capita availability adjusted for loss,1996,Food pattern equivalents-Ounce-eq,2.147449123
+Beef: Per capita availability adjusted for loss,1997,Food pattern equivalents-Ounce-eq,2.100894775
+Beef: Per capita availability adjusted for loss,1998,Food pattern equivalents-Ounce-eq,2.132198204
+Beef: Per capita availability adjusted for loss,1999,Food pattern equivalents-Ounce-eq,2.15801027
+Beef: Per capita availability adjusted for loss,2000,Food pattern equivalents-Ounce-eq,2.16529185
+Beef: Per capita availability adjusted for loss,2001,Food pattern equivalents-Ounce-eq,2.117301215
+Beef: Per capita availability adjusted for loss,2002,Food pattern equivalents-Ounce-eq,2.16403462
+Beef: Per capita availability adjusted for loss,2003,Food pattern equivalents-Ounce-eq,2.077915101
+Beef: Per capita availability adjusted for loss,2004,Food pattern equivalents-Ounce-eq,2.11389365
+Beef: Per capita availability adjusted for loss,2005,Food pattern equivalents-Ounce-eq,2.095671297
+Beef: Per capita availability adjusted for loss,2006,Food pattern equivalents-Ounce-eq,2.10568922
+Beef: Per capita availability adjusted for loss,2007,Food pattern equivalents-Ounce-eq,2.083796746
+Beef: Per capita availability adjusted for loss,2008,Food pattern equivalents-Ounce-eq,1.991949087
+Beef: Per capita availability adjusted for loss,2009,Food pattern equivalents-Ounce-eq,1.948307816
+Beef: Per capita availability adjusted for loss,2010,Food pattern equivalents-Ounce-eq,1.901115885
+Beef: Per capita availability adjusted for loss,2011,Food pattern equivalents-Ounce-eq,1.825346621
+Beef: Per capita availability adjusted for loss,2012,Food pattern equivalents-Ounce-eq,1.829268989
+Beef: Per capita availability adjusted for loss,2013,Food pattern equivalents-Ounce-eq,1.797315415
+Beef: Per capita availability adjusted for loss,2014,Food pattern equivalents-Ounce-eq,1.72900013
+Beef: Per capita availability adjusted for loss,2015,Food pattern equivalents-Ounce-eq,1.72450474
+Beef: Per capita availability adjusted for loss,2016,Food pattern equivalents-Ounce-eq,1.775147558
+Beef: Per capita availability adjusted for loss,2017,Food pattern equivalents-Ounce-eq,1.82109489
+Beef: Per capita availability adjusted for loss,2018,Food pattern equivalents-Ounce-eq,1.828305139
+Beef: Per capita availability adjusted for loss,2019,Food pattern equivalents-Ounce-eq,1.851840169
