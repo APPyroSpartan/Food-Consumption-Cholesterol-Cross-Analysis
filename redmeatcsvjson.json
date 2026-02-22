@@ -1,0 +1,4802 @@
+[
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 114.3640394
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 113.4313824
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 115.2597684
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 108.8125477
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 115.6848998
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 119.1336545
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 127.1968574
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 123.7097154
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 117.738655
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 105.3340682
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 103.2522312
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 104.2637092
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 103.8732715
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 106.1178294
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 105.7823351
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 106.8180854
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 107.7724016
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 103.8037807
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 102.7985812
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 97.66676429
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 95.79493066
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 94.8579537
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 94.14654131
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 92.00516532
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 95.16616369
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 95.54193299
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 95.69076089
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 93.61628985
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 95.01117693
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 96.16136773
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 96.48583636
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 94.34736411
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 96.42981396
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 92.59231101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 94.19552234
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 93.38353064
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 93.82993128
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 92.85439829
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 88.76164832
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 86.81698457
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 84.71410274
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 81.3378092
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 81.51259071
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 80.08873308
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 77.04459038
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 76.84427492
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 79.10092897
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 81.14835123
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 81.46964135
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Primary weight-Lbs/year",
+    "Value": 82.51836697
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 30.2
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 31
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.3
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.3
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.3
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.7
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.7
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.7
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.9
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.5
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Loss from primary to retail weight-Percent",
+    "Value": 33.1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 79.82609948
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 79.17510491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 80.45131832
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 75.95115826
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 80.74806005
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 83.15529083
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 88.78340645
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 86.34938132
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 82.18158118
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 73.52317961
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 72.07005737
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 72.77606905
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 72.5035435
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 74.07024494
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 73.83606991
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 74.55902363
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 74.36295711
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 69.54853304
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 68.56665365
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 65.14373178
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 63.89521875
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 62.8908233
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 62.41915689
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 60.99942461
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 62.9048342
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 63.53538544
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 64.01711903
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 62.62929791
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 63.56247736
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 64.33195501
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 64.54902452
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 63.11838659
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 64.51154554
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 61.94425607
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 63.01680445
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 62.473582
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 62.77222403
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 62.11959245
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 59.38154273
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 58.08056268
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 56.67373473
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 54.41499436
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 54.53192318
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 53.57936243
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 51.54283096
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 51.40881992
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 52.91852148
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 54.28824697
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 54.50319006
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Retail weight-Lbs/year",
+    "Value": 55.2047875
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Loss from retail/ institutional to consumer level-Percent",
+    "Value": 4.344564675
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 76.35800296
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 75.73529127
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 76.95605876
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 72.65141107
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 77.23990836
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 79.54255544
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 84.92615394
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 82.5978766
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 78.61114923
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 70.32891752
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 68.93892712
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 69.61426566
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 69.35358016
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 70.85221524
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 70.6282141
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 71.31975863
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 71.13221035
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 66.52695205
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 65.58773104
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 62.31352022
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 61.11924965
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 60.15849081
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 59.70731625
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 58.34926515
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 60.17189299
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 60.77504953
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 61.2358539
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 59.90832755
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 60.80096442
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 61.53701162
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 61.74465041
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 60.37616746
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 61.70879972
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 59.2530478
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 60.27899862
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 59.75937683
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 60.04504416
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 59.42076658
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 56.8016732
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 55.55721507
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 54.21150767
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 52.05089974
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 52.16274851
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 51.25157237
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 49.30351934
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 49.17533049
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 50.61944209
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 51.92965897
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 52.13526372
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Consumer weight-Lbs/year",
+    "Value": 52.80637981
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Loss at consumer level-Nonedible share-Percent",
+    "Value": 0
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 76.35800296
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 75.73529127
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 76.95605876
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 72.65141107
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 77.23990836
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 79.54255544
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 84.92615394
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 82.5978766
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 78.61114923
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 70.32891752
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 68.93892712
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 69.61426566
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 69.35358016
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 70.85221524
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 70.6282141
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 71.31975863
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 71.13221035
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 66.52695205
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 65.58773104
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 62.31352022
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 61.11924965
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 60.15849081
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 59.70731625
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 58.34926515
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 60.17189299
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 60.77504953
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 61.2358539
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 59.90832755
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 60.80096442
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 61.53701162
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 61.74465041
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 60.37616746
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 61.70879972
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 59.2530478
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 60.27899862
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 59.75937683
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 60.04504416
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 59.42076658
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 56.8016732
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 55.55721507
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 54.21150767
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 52.05089974
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 52.16274851
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 51.25157237
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 49.30351934
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 49.17533049
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 50.61944209
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 51.92965897
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 52.13526372
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Loss at consumer level-Edible weight-Lbs/year",
+    "Value": 52.80637981
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Loss at consumer level-Other (cooking loss and uneaten food)-Percent",
+    "Value": 20
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 46.58600491
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 47.1981997
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.72868667
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.95825971
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.95825971
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.95825971
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 49.2643571
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 49.2643571
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 49.2643571
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 49.4174058
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 49.11130841
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Total loss, all levels-Percent",
+    "Value": 48.80521101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 61.08640237
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 60.58823302
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 61.56484701
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 58.12112885
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 61.79192669
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 63.63404435
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 67.94092315
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 66.07830128
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 62.88891939
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 56.26313401
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 55.15114169
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 55.69141253
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 55.48286413
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 56.6817722
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 56.50257128
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 57.0558069
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 56.90576828
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 53.22156164
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 52.47018483
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 49.85081618
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.89539972
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.12679265
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 47.765853
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 46.67941212
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.1375144
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.62003962
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.98868312
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 47.92666204
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.64077154
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 49.22960929
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 49.39572032
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.30093397
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 49.36703977
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 47.40243824
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.2231989
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 47.80750146
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 48.03603532
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 47.53661327
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 45.44133856
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 44.44577205
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 43.36920614
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 41.64071979
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 41.73019881
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 41.0012579
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 39.44281547
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 39.34026439
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 40.49555367
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 41.54372718
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 41.70821098
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Per capita availability adjusted for loss-Lbs/year",
+    "Value": 42.24510384
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.677760104
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.655922543
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.69873302
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.547775511
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.708687197
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.789437561
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.978232248
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.89658307
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.756774548
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.466329162
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.417584293
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.441267399
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.432125551
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.484680425
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.476825042
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.501076467
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.494499431
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.332999962
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.300062897
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.185241257
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.143359988
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.109667623
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.093845611
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.046220805
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.110137617
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.131289408
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.147449123
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.100894775
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.132198204
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.15801027
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.16529185
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.117301215
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.16403462
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.077915101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.11389365
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.095671297
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.10568922
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 2.083796746
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.991949087
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.948307816
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.901115885
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.825346621
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.829268989
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.797315415
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.72900013
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.72450474
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.775147558
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.82109489
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.828305139
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Per capita availability adjusted for loss-Oz/day",
+    "Value": 1.851840169
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 75.91316006
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 75.29407614
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 76.50773174
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 72.22816186
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 76.7899277
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 79.07916012
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 84.43139511
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 82.11668174
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 78.15318006
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 69.91919859
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 68.53730593
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 69.20871012
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 68.9495433
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 70.43944771
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 70.21675154
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 70.9042673
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 70.71781163
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 66.13938243
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 65.20563309
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 61.95049702
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 60.76318397
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.80802227
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.35947614
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 58.00933672
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.82134638
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 60.42098907
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 60.87910891
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.55931641
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 60.446753
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 61.17851216
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 61.3849413
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 60.0244308
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 61.34929947
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 58.90785415
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.92782804
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.41123343
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.69523653
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 59.07459585
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 56.47076065
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 55.23355243
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 53.89568479
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 51.74766403
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 51.8588612
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 50.95299335
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 49.01628919
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 48.88884714
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 50.3245457
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 51.62712958
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 51.83153653
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Per capita availability adjusted for loss-G/day",
+    "Value": 52.49874286
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Calories per ounce equivalent (oz-eq)-Number",
+    "Value": 82
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Ounce-equivalent-Ounces",
+    "Value": 1
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Calories available daily-Number",
+    "Value": 219.5763285
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Calories available daily-Number",
+    "Value": 217.7856486
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Calories available daily-Number",
+    "Value": 221.2961076
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Calories available daily-Number",
+    "Value": 208.9175919
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Calories available daily-Number",
+    "Value": 222.1123502
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Calories available daily-Number",
+    "Value": 228.73388
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Calories available daily-Number",
+    "Value": 244.2150443
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Calories available daily-Number",
+    "Value": 237.5198117
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Calories available daily-Number",
+    "Value": 226.055513
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Calories available daily-Number",
+    "Value": 202.2389913
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Calories available daily-Number",
+    "Value": 198.2419121
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Calories available daily-Number",
+    "Value": 200.1839267
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Calories available daily-Number",
+    "Value": 199.4342952
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Calories available daily-Number",
+    "Value": 203.7437949
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Calories available daily-Number",
+    "Value": 203.0996535
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Calories available daily-Number",
+    "Value": 205.0882703
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Calories available daily-Number",
+    "Value": 204.5489534
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Calories available daily-Number",
+    "Value": 191.3059969
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Calories available daily-Number",
+    "Value": 188.6051575
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Calories available daily-Number",
+    "Value": 179.1897831
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Calories available daily-Number",
+    "Value": 175.755519
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Calories available daily-Number",
+    "Value": 172.9927451
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Calories available daily-Number",
+    "Value": 171.6953401
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Calories available daily-Number",
+    "Value": 167.790106
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Calories available daily-Number",
+    "Value": 173.0312846
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Calories available daily-Number",
+    "Value": 174.7657315
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Calories available daily-Number",
+    "Value": 176.0908281
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Calories available daily-Number",
+    "Value": 172.2733715
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Calories available daily-Number",
+    "Value": 174.8402528
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Calories available daily-Number",
+    "Value": 176.9568422
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Calories available daily-Number",
+    "Value": 177.5539317
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Calories available daily-Number",
+    "Value": 173.6186996
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Calories available daily-Number",
+    "Value": 177.4508389
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Calories available daily-Number",
+    "Value": 170.3890383
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Calories available daily-Number",
+    "Value": 173.3392793
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Calories available daily-Number",
+    "Value": 171.8450463
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Calories available daily-Number",
+    "Value": 172.666516
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Calories available daily-Number",
+    "Value": 170.8713332
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Calories available daily-Number",
+    "Value": 163.3398252
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Calories available daily-Number",
+    "Value": 159.7612409
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Calories available daily-Number",
+    "Value": 155.8915026
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Calories available daily-Number",
+    "Value": 149.6784229
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Calories available daily-Number",
+    "Value": 150.0000571
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Calories available daily-Number",
+    "Value": 147.379864
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Calories available daily-Number",
+    "Value": 141.7780107
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Calories available daily-Number",
+    "Value": 141.4093887
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Calories available daily-Number",
+    "Value": 145.5620998
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Calories available daily-Number",
+    "Value": 149.329781
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Calories available daily-Number",
+    "Value": 149.9210214
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Calories available daily-Number",
+    "Value": 151.8508938
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1970,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.677760104
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1971,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.655922543
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1972,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.69873302
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1973,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.547775511
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1974,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.708687197
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1975,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.789437561
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1976,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.978232248
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1977,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.89658307
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1978,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.756774548
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1979,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.466329162
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1980,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.417584293
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1981,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.441267399
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1982,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.432125551
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1983,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.484680425
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1984,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.476825042
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1985,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.501076467
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1986,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.494499431
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1987,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.332999962
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1988,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.300062897
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1989,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.185241257
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1990,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.143359988
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1991,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.109667623
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1992,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.093845611
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1993,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.046220805
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1994,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.110137617
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1995,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.131289408
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1996,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.147449123
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1997,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.100894775
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1998,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.132198204
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 1999,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.15801027
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2000,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.16529185
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2001,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.117301215
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2002,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.16403462
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2003,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.077915101
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2004,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.11389365
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2005,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.095671297
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2006,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.10568922
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2007,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 2.083796746
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2008,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.991949087
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2009,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.948307816
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2010,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.901115885
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2011,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.825346621
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2012,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.829268989
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2013,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.797315415
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2014,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.72900013
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2015,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.72450474
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2016,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.775147558
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2017,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.82109489
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2018,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.828305139
+  },
+  {
+    "Commodity": "Beef: Per capita availability adjusted for loss",
+    "Year": 2019,
+    "Attribute": "Food pattern equivalents-Ounce-eq",
+    "Value": 1.851840169
+  }
+]
